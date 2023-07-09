@@ -1,4 +1,4 @@
-# A/B Test Example
+# A/B Test
 
 This project was to conduct an A/B test on a dataset from Kaggle ( https://www.kaggle.com/datasets/zhangluyuan/ab-testing?select=ab_data.csv ). 
 The dataset has the following fields:
